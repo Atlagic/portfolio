@@ -1,0 +1,34 @@
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>Aleksandar Atlagić : Portfolio</title>
+			<description>
+				I'm Aleksandar Atlagić, web developer who can be your ace in the sleeve.
+			</description>
+			<link>https://pportfolio94.000webhostapp.com/#home</link>
+		</item>
+		<item>
+			<title>About Aleksandar Atlagić</title>
+			<description>
+				I am a student currently living in Belgrade, Serbia. My interests range from technology to programming. 
+				I am also interested in web development, design, and volunteering. I am on the final year of ICT collage 
+				and my future plan is to continue education while working/practise full or part time.
+			</description>
+			<link>https://pportfolio94.000webhostapp.com/#about</link>
+		</item>
+		<item>
+			<title>Aleksandar Atlagić projects</title>
+			<description>
+				This is my projects so far: Tattoo studio - Galaxy ink., Barber shop - Fellas, The pub - FOOD & DRINK, Fitness center - FULL BLOWN 
+			</description>
+			<link>https://pportfolio94.000webhostapp.com/#projects</link>
+		</item>
+		<item>
+			<title>Contact Aleksandar Atlagić</title>
+			<description>
+				If you want to get connected with me feel free, atlagic.aleksandar@gmail.com
+			</description>
+			<link>https://pportfolio94.000webhostapp.com/#contact</link>
+		</item>
+	</channel>
+</rss>
